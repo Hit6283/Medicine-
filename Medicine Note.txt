@@ -1,0 +1,10 @@
+
+
+
+   implementation 'com.readystatesoftware.sqliteasset:sqliteassethelper:+'
+    
+   Database Name : medicine.db
+
+   Table Name : brand
+
+
